@@ -23,6 +23,8 @@
   </tbody>
 </table>
 
+<br />
+
 ### Technologies I'm familiar with
 
 Techstack
