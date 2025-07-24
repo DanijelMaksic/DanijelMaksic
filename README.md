@@ -4,5 +4,5 @@
 
 My Portfolio
 <a href="https://raw.githubusercontent.com/DanijelMaksic/danijel-portfolio/refs/heads/master/assets/portfolio.webp">
-![portfolio image](https://raw.githubusercontent.com/DanijelMaksic/danijel-portfolio/refs/heads/master/assets/portfolio.webp)
+ <img src="https://raw.githubusercontent.com/DanijelMaksic/danijel-portfolio/refs/heads/master/assets/portfolio.webp" alt="Portfolio Image" />
 <a />
