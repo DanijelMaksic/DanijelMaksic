@@ -25,6 +25,14 @@
 
 <br />
 
-### Technologies I'm familiar with:
+### Technologies I work with:
 
-Techstack
+- React
+- Next.js
+- React Query
+- Redux Toolkit
+- Tailwind CSS
+- SASS
+- CSS
+- HTML
+- Supabase
