@@ -25,14 +25,10 @@
 
 <br />
 
-### Technologies I work with:
+### My favorite technologies:
 
 - React
 - Next.js
-- React Query
-- Redux Toolkit
 - Tailwind CSS
-- SASS
-- CSS
-- HTML
-- Supabase
+
+#### At the moment, I'm learning Typescript
