@@ -17,7 +17,7 @@
         <img src="https://raw.githubusercontent.com/DanijelMaksic/danijel-portfolio/refs/heads/master/assets/portfolio.webp" alt="Portfolio Image" width="400" height="200" />
         <a />
         <br />
-        <a href="https://danijelmaksic.vercel.app/" >You can find my projects here</a>
+        <a href="https://danijelmaksic.vercel.app/" >You can find my selected projects here</a>
       </td>
     </tr>
   </tbody>
