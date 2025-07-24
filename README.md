@@ -25,6 +25,6 @@
 
 <br />
 
-### Technologies I'm familiar with
+### Technologies I'm familiar with:
 
 Techstack
