@@ -31,4 +31,4 @@
 - Next.js
 - Tailwind CSS
 
-#### At the moment, I'm also learning Typescript
+#### At the moment, I'm learning Typescript
