@@ -25,10 +25,6 @@
 
 <br />
 
-### My favorite technologies:
-
-- React
-- Next.js
-- Tailwind CSS
-
-### At the moment, I'm learning TypeScript
+#### 📌 Check out my main project, [Ochrid Gallery](https://ochrid-gallery.vercel.app/)
+#### ⭐ My favorite technologies are React, Tailwind and Next.js
+#### 📖 At the moment, I'm learing TypeScript
