@@ -14,7 +14,7 @@
     <tr>
       <td align="center">
        <a href="https://danijelmaksic.vercel.app/" >
-        <img src="https://github.com/DanijelMaksic/danijel-portfolio/blob/master/assets/portfolio.webp" alt="Portfolio Image" width="400" height="200" />
+        <img src="[https://github.com/DanijelMaksic/danijel-portfolio/blob/master/assets/portfolio.webp](https://raw.githubusercontent.com/DanijelMaksic/danijel-portfolio/master/assets/portfolio.webp)" alt="Portfolio Image" width="400" height="200" />
         <a />
         <br />
         <a href="https://danijelmaksic.vercel.app/" >You can find my selected projects here</a>
