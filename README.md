@@ -27,4 +27,3 @@
 
 #### 📌 Check out the live demo of my main project, [Ochrid Gallery](https://ochrid-gallery.vercel.app/)
 #### ⭐ My favorite technologies are React, Tailwind and Next.js
-#### 📖 At the moment, I'm learing TypeScript
