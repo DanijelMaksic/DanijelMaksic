@@ -1,6 +1,6 @@
 ## Hello 👋
 
-### I'm Danijel, I build Front-End websites using React and Next.js
+### I'm Danijel, I build Full-Stack apps using React and Next.js
 
 <br />
 
